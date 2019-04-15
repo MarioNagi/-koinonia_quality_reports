@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595963081313",
+    "firebase_url": "https://koinonia-quality-reports.firebaseio.com",
+    "project_id": "koinonia-quality-reports",
+    "storage_bucket": "koinonia-quality-reports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595963081313:android:04abf0f39a0787d2",
+        "android_client_info": {
+          "package_name": "com.kimbshkorp.koinonia_quality_reports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595963081313-jm1farpa76mtf4g7eqlpff68kd4jrr7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimbshkorp.koinonia_quality_reports",
+            "certificate_hash": "abf41c516a5c705dda91af6ebe128f8c06088a5d"
+          }
+        },
+        {
+          "client_id": "595963081313-qvg5aupv01esl8nle9a5b9nk4q3ffrn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcWbTIzKoRMIIS0XQ7QoCh413mxUFRDKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595963081313-qvg5aupv01esl8nle9a5b9nk4q3ffrn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
